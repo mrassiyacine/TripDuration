@@ -1,0 +1,19 @@
+{
+    "datasets": [
+      {
+        "name": "alitran",
+        "path": "data/datasets/alitran",
+        "model_path": "models/alitran.pkl"
+      },
+      {
+        "name": "easy_destiny",
+        "path": "data/datasets/easy_destiny",
+        "model_path": "models/easy_destiny.pkl"
+      },
+      {
+        "name": "to_my_place_ai",
+        "path": "data/datasets/to_my_place_ai",
+        "model_path": "models/to_my_place_ai.pkl"
+      }
+    ]
+  }
